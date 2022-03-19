@@ -8,11 +8,13 @@ https://youtu.be/JqPajWlOyxY
 
 # Description
 
-This is a gem that uses scraping to gather information such as a phone number, address and url for WIC Clinics in the Denver area. It allows the user to select a clinic and recieve that information.
+This is a gem that uses scraping to gather information such as a phone number, address and url for WIC Clinics in the Denver area. WIC is a federal non-profit program for low-income mothers and children under the age of five. It allows the user to select a clinic and recieve that information.
 
 # Intent
 
-I built this gem to practice scraping information on the web to gather information about WIC Clinics because I want to eventually build a website for women to find resources that includes all of the WIC clinics in the country. WIC is a federal non-profit program for low-income mothers and children under the age of five.
+I built this gem as part of my [Flatiron](https://flatironschool.com/) bootcamp work to familiarize myself with scraping websites for structured information. I chose to scrape [WIC](https://www.fns.usda.gov/wic/about-wic) data because I worked in WIC clinics for several years as a dietitian educating low-income pregnant and breastfeeding women on nutrition.
+
+I took what I learned from this project, as well as my experience working in the clinics, and built [Women's Directory](https://github.com/Womens-Directory/womens-directory) a free, open-source website to help women find resources in their communities.
 
 # Installation
 
