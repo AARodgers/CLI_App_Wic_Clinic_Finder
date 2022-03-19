@@ -44,8 +44,7 @@ DEPENDENCIES
   bundler (~> 2.0)
   pry
   rake (~> 13.0)
-  tty-prompt
   wic_practice_walkthrough!
 
 BUNDLED WITH
-   2.0.2
+   2.2.33
