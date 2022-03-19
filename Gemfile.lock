@@ -23,7 +23,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
     racc (1.6.0)
-    rake (10.5.0)
+    rake (13.0.6)
     tty-color (0.5.1)
     tty-cursor (0.7.1)
     tty-prompt (0.21.0)
@@ -43,7 +43,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.0)
   pry
-  rake (~> 10.0)
+  rake (~> 13.0)
   tty-prompt
   wic_practice_walkthrough!
 
